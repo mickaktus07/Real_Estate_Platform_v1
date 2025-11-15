@@ -101,10 +101,10 @@ Special thanks to the BestCity team for inspiration and the React/Tailwind CSS c
   `Mac`, `Linux`, `Windows`<br/>
     \*This project works best on `macOS`. If you encounter any problems while using other operating systems, please contact the administrator.
 - **Prerequirements:**<br/>
-  `Node v20.x.x`, Google Chrome
+  `Node v22.x.x` or above, Google Chrome
 - **Installing required dependencies:**<br/>
   ```bash
-  npm install --legacy-peer-deps
+  npm install
   ```
   If above command doesn' t work, you can try install with `yarn` like below.
   - Install `yarn` globally (If `npm` is not installed currently)
